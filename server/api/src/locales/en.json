@@ -1,0 +1,21 @@
+{
+  "error_message": {
+    "already_signed_in": "Already signed in.",
+    "authentication_failed": "Authentication failed.",
+    "could_not_add_todo": "Could not add todo.",
+    "could_not_get_todo": "Could not get todo.",
+    "could_not_remove_todo": "Could not remove todo.",
+    "could_not_sign_in": "Could not sign in.",
+    "could_not_sign_up": "Could not sign up.",
+    "could_not_update_todo": "Could not update todo.",
+    "default": "An unexpected error occurred.",
+    "token_expired": "Token expired.",
+    "user_not_found": "User not found.",
+    "username_already_taken": "Username already taken.",
+    "wrong_credentials": "Wrong credentials."
+  },
+  "success_message": {
+    "default": "Request successful.",
+    "sign_up_completed": "Sign up completed."
+  }
+}
