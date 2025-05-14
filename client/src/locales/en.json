@@ -1,0 +1,64 @@
+{
+  "action": {
+    "add": "Add",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "new_todo": "New todo",
+    "reload_page": "Reload page",
+    "remove": "Remove",
+    "sign_in": "Sign in",
+    "sign_up": "Sign up",
+    "update": "Update"
+  },
+  "dialog": {
+    "add_todo": {
+      "text": "Add a new todo.",
+      "title": "Add todo"
+    },
+    "remove_todo": {
+      "text": "This cannot be undone.",
+      "title": "Remove todo?"
+    },
+    "update_todo": {
+      "text": "Update an existing todo.",
+      "title": "Update todo"
+    }
+  },
+  "error_message": {
+    "unknown_error": "An unknown error occurred."
+  },
+  "form": {
+    "label": {
+      "description": "Description",
+      "password": "Password",
+      "title": "Title",
+      "username": "Username"
+    },
+    "validation": {
+      "required": "This is required."
+    }
+  },
+  "page": {
+    "error": {
+      "text": "An unknown error occurred.",
+      "title": "Error"
+    },
+    "not_found": {
+      "text": "Page not found.",
+      "title": "404"
+    },
+    "sign_in": {
+      "sign_up_question": "Don't have an account yet?",
+      "text": "Sign in to continue.",
+      "title": "Sign in"
+    },
+    "sign_up": {
+      "text": "Sign up to continue.",
+      "title": "Sign up"
+    },
+    "todos": {
+      "empty": "No todos",
+      "title": "Todos"
+    }
+  }
+}
