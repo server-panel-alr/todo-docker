@@ -1,0 +1,1 @@
+-- initializing database is done via prisma migration
